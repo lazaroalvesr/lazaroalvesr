@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lazaroalvesr
-- 👀 I’m interested in trabalhar como Dev
-- 🌱 I’m currently learning mais linguagem
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lazaroalves12355@gmail.om
+- 👋 Oi eu sou @lazaroalvesr
+- 👀Estou interessado trabalhar como Dev
+- 🌱 No momento estou aprendendo JavaScript
+- 💞️ Estou querendo colaborar ...
+- 📫 Como chegar até mim lazaroalves12355@gmail.om
 
 <!---
 
