@@ -12,7 +12,7 @@ object **Lázaro Alves** {
  val acknowledgements = "Desenvolvedor Front-End"
 
  val primarySkillset = "Desenvolvimento Web Front-end, GIT"
- let languages = listOf("JavaScript", "TailwindCss ", "TypeScript", "React")
+ let languages = listOf("JavaScript", "TailwindCSS", "TypeScript", "React")
 
 }
 ```
