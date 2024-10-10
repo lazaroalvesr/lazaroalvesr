@@ -28,27 +28,18 @@ Sou um desenvolvedor front-end com mais de 3 anos de experiência na construçã
   <tr>
     <td>
       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=lazaroalvesr&show_icons=true&theme=white&hide_border=true&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroalvesr&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
       />
     </td>
   </tr>
 </table>
+
 
       
