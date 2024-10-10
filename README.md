@@ -1,6 +1,6 @@
 ## 👨🏼‍💻 Olá, meu nome é Lázaro Alves R!
 
-Sou um desenvolvedor front-end do Brasil com mais de 2 anos de experiência na construção de aplicações web responsivas e amigáveis. Tenho uma grande paixão por tecnologia e adoro aprender novos frameworks e linguagens para aprimorar minhas habilidades.
+Sou um desenvolvedor front-end com mais de 3 anos de experiência na construção de aplicações web responsivas e amigáveis. Tenho uma grande paixão por tecnologia e adoro aprender novos frameworks e linguagens para aprimorar minhas habilidades.
 
 💬 Estou sempre aberto a perguntas, ideias e colaborações. Se você quiser discutir sobre desenvolvimento web, compartilhar experiências ou simplesmente trocar informações, não hesite em me contatar!
 
