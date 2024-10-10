@@ -24,16 +24,11 @@ Sou um desenvolvedor front-end com mais de 3 anos de experiência na construçã
 
 ## ⭐ GitHub Stats
 
-<p align="flex">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lazaroalvesr&show_icons=true" 
-    alt="GitHub Stats" 
-    width="45%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroalvesr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-    alt="Top Languages" 
-    width="45%" 
-  />
-</p>
+<a href="https://github.com/lazaroalvesr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroalvesr&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/lazaroalvesr">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lazaroalvesr&show_icons=true&theme=dracula&line_height=27" alt="**Lazaro** github stats"/>
+</a>
 
