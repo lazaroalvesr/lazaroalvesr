@@ -20,14 +20,13 @@ Sou um desenvolvedor front-end com mais de 3 anos de experiência na construçã
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git"/></code>
 
-  <td>
+
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazaroalvesr&show_icons=true)
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
-    </td>
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazaroalvesr&show_icons=true)
