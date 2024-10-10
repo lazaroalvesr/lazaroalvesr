@@ -24,7 +24,7 @@ Sou um desenvolvedor front-end com mais de 3 anos de experiência na construçã
 
 ## ⭐ GitHub Stats
 
-<p align="center">
+<p align="flex">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=lazaroalvesr&show_icons=true" 
     alt="GitHub Stats" 
